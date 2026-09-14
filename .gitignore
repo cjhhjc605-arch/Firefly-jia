@@ -32,7 +32,7 @@ yarn.lock
 # ide
 .idea
 *.iml
-
+.jiaimage
 # docs
 Firefly-docs/
 
@@ -47,3 +47,6 @@ package/
 .codex*
 .claude
 .mimocode
+
+
+
