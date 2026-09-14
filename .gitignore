@@ -32,7 +32,7 @@ yarn.lock
 # ide
 .idea
 *.iml
-.jiaimage
+jiaimage
 # docs
 Firefly-docs/
 
